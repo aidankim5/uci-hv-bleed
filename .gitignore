@@ -1,0 +1,18 @@
+# Altium auto-backups and caches
+History/
+__Previews/
+Project Logs for */
+Project Outputs for */
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.LOG
+~$*
+.~lock*
+
+# Windows junk
+Thumbs.db
+desktop.ini
+
+# Files parked for deletion
+_to_delete/
